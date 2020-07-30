@@ -1,0 +1,10 @@
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\bin\Debug\YCalculator.exe.config
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\bin\Debug\YCalculator.exe
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\bin\Debug\YCalculator.pdb
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.csprojAssemblyReference.cache
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.Form1.resources
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.Properties.Resources.resources
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.csproj.GenerateResource.cache
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.exe
+C:\Users\Renen\Desktop\Crash Course\week2\YCalculator\YCalculator\obj\Debug\YCalculator.pdb
